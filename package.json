@@ -1,0 +1,19 @@
+{
+  "name": "restful-api-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest -i --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorMayer/restful-api-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorMayer/restful-api-template/issues"
+  },
+  "homepage": "https://github.com/VictorMayer/restful-api-template#readme"
+}
